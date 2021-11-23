@@ -1,0 +1,13 @@
+{
+  "id" : "flipr_test",
+  "name" : "Flipr Hub",
+  "description" : "Plugin pour controler flipr et flipr hub",
+  "licence" : "AGPL",
+  "author" : "blackibanez",
+  "require" : "3.3.39",
+  "category" : "monitoring",
+  "changelog" : "",
+  "documentation" : "",
+  "language" : "",
+  "compatibility" : ""
+}
