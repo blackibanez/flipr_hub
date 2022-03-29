@@ -18,19 +18,17 @@
 
 require_once dirname(__FILE__) . '/../../../core/php/core.inc.php';
 
-// Fonction exécutée automatiquement après l'installation du plugin
-  function flipr_test_install() {
+function flipr_hub_install() {
+    
+}
 
-  }
+function flipr_hub_update() {
+    
+}
 
-// Fonction exécutée automatiquement après la mise à jour du plugin
-  function flipr_test_update() {
 
-  }
-
-// Fonction exécutée automatiquement après la suppression du plugin
-  function flipr_test_remove() {
-
-  }
+function flipr_hub_remove() {
+    
+}
 
 ?>

@@ -1,13 +1,20 @@
 {
-  "id" : "flipr_test",
-  "name" : "Flipr Hub",
-  "description" : "Plugin pour controler flipr et flipr hub",
-  "licence" : "AGPL",
-  "author" : "blackibanez",
-  "require" : "4.1.27",
-  "category" : "monitoring",
-  "changelog" : "",
-  "documentation" : "",
-  "language" : "",
-  "compatibility" : ""
+	"id" : "flipr_hub",
+	"name" : "Flipr HUB",
+	"description" : "Plugin de récupération des infos et de contrôle de Flipr HUB (www.goflipr.com)",
+	"licence" : "AGPL",
+	"author" : "blackibanez",
+	"require" : "4.1",
+	"category" : "devicecommunication",
+	"hasDependency" : false,
+	"hasOwnDeamon" : false,
+	"maxDependancyInstallTime" : 0,
+	"changelog" : "",
+	"documentation" : "",
+	"link" : {
+		"forum":"Lien vers le forum",
+		"video" : "Lien vers une video"
+	},
+	"language" : ["fr_FR","en_US","de_DE","sp_SP","ru_RU","id_ID","it_IT"],
+	"compatibility" : ["miniplus","smart","rpi","docker","diy","mobile"]
 }
