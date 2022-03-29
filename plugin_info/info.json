@@ -1,6 +1,6 @@
 {
 	"id" : "flipr_hub",
-	"name" : "Flipr HUB",
+	"name" : "Flipr Hub",
 	"description" : "Plugin de récupération des infos et de controle de Flipr HUB (www.goflipr.com)",
 	"licence" : "AGPL",
 	"author" : "blackibanez",
