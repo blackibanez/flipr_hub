@@ -1,20 +1,16 @@
 {
 	"id" : "flipr_hub",
 	"name" : "Flipr Hub",
-	"description" : "Plugin de récupération des infos et de controle de Flipr HUB (www.goflipr.com)",
+	"description" : "Plugin de rÃ©cupÃ©ration des infos et de controle de Flipr HUB (www.goflipr.com)",
 	"licence" : "AGPL",
 	"author" : "blackibanez",
-	"require" : "4.1.27",
+	"require" : "4.1",
 	"category" : "devicecommunication",
 	"hasDependency" : false,
 	"hasOwnDeamon" : false,
 	"maxDependancyInstallTime" : 0,
 	"changelog" : "",
 	"documentation" : "",
-	"link" : {
-		"forum":"Lien vers le forum",
-		"video" : "Lien vers une video"
-	},
 	"language" : ["fr_FR"],
 	"compatibility" : ["miniplus","smart","rpi","docker","diy","mobile"]
 }
