@@ -1,7 +1,7 @@
 {
 	"id" : "flipr_hub",
 	"name" : "Flipr HUB",
-	"description" : "Plugin de r√©cup√©ration des infos et de contr√¥le de Flipr HUB (www.goflipr.com)",
+	"description" : "Plugin de rÈcupÈration des infos et de controle de Flipr HUB (www.goflipr.com)",
 	"licence" : "AGPL",
 	"author" : "blackibanez",
 	"require" : "4.1.27",
